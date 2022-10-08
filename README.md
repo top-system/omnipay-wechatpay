@@ -13,7 +13,7 @@ processing library for PHP 5.3+. This package implements WechatPay support for O
 
 Omnipay is installed via [Composer](http://getcomposer.org/). To install:
 
-    composer require topsystem/omnipay-wechatpay
+    composer require topsystem/omnipay-wechatpay:dev-master
 
 ## Basic Usage
 
